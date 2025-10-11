@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hello World!, I'm Hien, a Fresher Analystics Engineer in the making! 
+# 👋 Hello World!, I'm Hien, a Junior Analystics Engineer in the making! 
 🌱<br>🎓 currently studying Information Systems at VNUHCM - University of Science<br><br>🧠 passionate about  in Analytics Engineer<br><br>📊 currently working on a dashboard project using Power BI, Tableau & Python<br><br>🔍 looking to collaborate on real-world data-driven business projects<br><br>🛠 learning to build predictive models with machine learning<br><br>📬 ask me about data analysis workflows, career tips for Gen Z, or how to make data tell a story<br><br>⚡ fun fact: I believe data is the new oil, but memes are the spice of life 😄<br><br>
 
 
